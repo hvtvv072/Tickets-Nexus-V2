@@ -1,5 +1,6 @@
 # Tickets-Nexus-V2
-Advanced Discord Ticket Bot built with discord.js v14  ✔ Dynamic ticket system with custom buttons   
+Advanced Discord Ticket Bot built with discord.js v14 
+✔ Dynamic ticket system with custom buttons   
 ✔ Each button has its own category & role   
 ✔ Claim / Unclaim / Transfer system   
 ✔ Points system for staff  
