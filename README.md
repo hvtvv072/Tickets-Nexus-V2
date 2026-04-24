@@ -8,7 +8,7 @@ Advanced Discord Ticket System Bot built with discord.js v14. This bot provides 
 - Per-button category system
 - Role-based ticket handling
 - Claim and unclaim system with points tracking
-- Staff tools (add/remove users, rename, transfer ownership)
+- Staff tools (add/remove users, rename, transfer claim)
 - Ticket close, reopen, and delete system
 - Clean UI using Discord Components V2
 - Fast and optimized structure
